@@ -1,0 +1,26 @@
+Lecture 1: The Learning Problem
+
+The essence of machine learning:
+	* A pattern exists.
+	* We cannot pin it down mathematically.
+	* We have data on it.
+
+Components of learning:
+	* Input: x
+	* Output: y
+	* Target funcion: f: x→y
+	* Data: (x1,y1),(x2,y2),...,(xn,yn)
+	* Hypothesis: g: x→y
+
+The 2 solution components of the learning problem:
+	* The Hypothsis Set
+	* The Learning Algorithm
+Together, they are referred to as the learning model.
+
+Basic premise of Learning
+"using a set of observations to uncover an underlying process"
+	* Supervised Learning
+	* UnSupervised Learning
+	* Reinforcement Learning (we get input, some output, grade for this output)
+
+
